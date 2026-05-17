@@ -1,0 +1,5 @@
+dataset/eegmmidb_slice_norm
+eeg_ferro/
+
+__pycache__
+.DS_Store
