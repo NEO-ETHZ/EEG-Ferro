@@ -189,7 +189,7 @@ Each script saves CSV log files and `.pth` model checkpoints to the `results/` d
 @article{garg2026personalized,
   title   = {Personalized Spiking Neural Networks with Ferroelectric Synapses for EEG Signal Processing},
   author  = {Garg, Nikhil and Song, Anxiong and Plessnig, Niklas and Savoia, Nathan and B{\'e}gon-Lours, Laura},
-  journal = {To appear},
+  journal = {APL Machine Learning},
   year    = {2026}
 }
 ```
