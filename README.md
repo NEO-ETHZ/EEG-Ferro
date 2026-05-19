@@ -8,7 +8,7 @@ Code for the forthcoming paper:
 >
 > Integrated Systems Laboratory, ETH Zürich
 
-Paper link: **coming soon**.
+Paper link: **https://doi.org/10.1063/5.0319912**.
 
 ## Overview
 
