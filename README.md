@@ -186,10 +186,18 @@ Each script saves CSV log files and `.pth` model checkpoints to the `results/` d
 ## Citation
 
 ```bibtex
-@article{garg2026personalized,
-  title   = {Personalized Spiking Neural Networks with Ferroelectric Synapses for EEG Signal Processing},
-  author  = {Garg, Nikhil and Song, Anxiong and Plessnig, Niklas and Savoia, Nathan and B{\'e}gon-Lours, Laura},
-  journal = {APL Machine Learning},
-  year    = {2026}
+@article{garg2026Personalized,
+    author = {Garg, Nikhil and Song, Anxiong and Plessnig, Niklas and Savoia, Nathan and Bégon-Lours, Laura},
+    title = {Personalized spiking neural networks with ferroelectric synapses for EEG signal processing},
+    journal = {APL Machine Learning},
+    volume = {4},
+    number = {2},
+    pages = {026110},
+    year = {2026},
+    month = {05},
+    issn = {2770-9019},
+    doi = {10.1063/5.0319912},
+    url = {https://doi.org/10.1063/5.0319912},
+    eprint = {https://pubs.aip.org/aip/aml/article-pdf/doi/10.1063/5.0319912/21009355/026110_1_5.0319912.pdf},
 }
 ```
